@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Happyhappycat](https://github.com/Happyhappycat)
 
-- 💬 Ask me about **Python, Machine Learning, Natural Language processing**
+- 💬 Ask me about **Python, Machine Learning, Natural Language processing, Javascript, Node.js, Express.js, MongoDB, MySQL**
 
 - 📫 How to reach me **harshhay69pr@gmail.com**
 

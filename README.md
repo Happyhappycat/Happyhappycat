@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happyhappycat" alt="happyhappycat" /></a> </p>
 
-- 🔭 I’m currently working on [Whatsapp Chat analyzer with Sentiment Analysis and Natours Backend API Development](https://github.com/Happyhappycat/Whatsapp-chat-analysis-with-sentiment-analysis)
+- 🔭 I’m currently working on [Whatsapp Chat analyzer with Sentiment Analysis a](https://github.com/Happyhappycat/Whatsapp-chat-analysis-with-sentiment-analysis) and [Natours Backend API development](https://github.com/Happyhappycat/natours)
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 

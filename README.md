@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Harshavardhan</h1>
+<h1 align="center">Hi 👋, I'm Harshavardhan Ranganathan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happyhappycat&label=Profile%20views&color=0e75b6&style=flat" alt="happyhappycat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happyhappycat" alt="happyhappycat" /></a> </p>
 
-- 🔭 I’m currently working on [Whatsapp Chat analyzer with Sentiment Analysis a](https://github.com/Happyhappycat/Whatsapp-chat-analysis-with-sentiment-analysis) and [Natours Backend API development](https://github.com/Happyhappycat/natours)
+- 🔭 I’m currently working on [Whatsapp Chat analyzer with Sentiment Analysis a](https://github.com/Happyhappycat/Whatsapp-chat-analysis-with-sentiment-analysis) and [Natours Backend API development](https://github.com/Happyhappycat/Natours-Real)
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 

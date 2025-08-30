@@ -19,6 +19,16 @@
 - 📫 How to reach me **harshhay69pr@gmail.com**  
 - ⚡ Fun fact **Obsessed with statistics**  
 
+---
+
+<h3 align="left">🛠️ Open Source Contributions:</h3>
+
+- 🚀 **[Buddy Pond](https://github.com/buddypond/buddypond)**  
+  Contributed to the Developer SDK documentation: added quick-start example, improved clarity, and made it easier for developers to integrate.  
+  ![Status: Merged](https://img.shields.io/badge/PR-Merged-brightgreen)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/harshavardhan-ranganathan-741813296/" target="blank">

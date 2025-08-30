@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on [Whatsapp Chat analyzer with Sentiment Analysis a](https://github.com/Happyhappycat/Whatsapp-chat-analysis-with-sentiment-analysis) and [Natours Backend API development](https://github.com/Happyhappycat/Natours-Real)  
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**  
+- 🌱 I’m currently learning **Java, SpringBoot,Apache Kafka, Node.js, Express.js, MongoDB, Backend Development, API Development**  
 - 🤝 I’m looking for help with **Backend development**  
 - 👨‍💻 All of my projects are available at [https://github.com/Happyhappycat](https://github.com/Happyhappycat)  
 - 💬 Ask me about **Python, Machine Learning, Natural Language processing, Javascript, Node.js, Express.js, MongoDB, MySQL, Google Cloud, QwikLabs, Backend Development, API Development, RESTful APIs**  

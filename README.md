@@ -25,7 +25,7 @@
 
 - 🚀 **[Buddy Pond](https://github.com/buddypond/buddypond)**  
   Contributed to the Developer SDK documentation: added quick-start example, improved clarity, and made it easier for developers to integrate.  
-  🔗 [Pull Request #173](https://github.com/buddypond/buddypond/pull/173)  
+  🔗 [Pull Request #89](https://github.com/buddypond/buddypond/commit/eb636e7db40636796449b5208f106b7d2e2b09aa)  
   ![Status: Merged](https://img.shields.io/badge/PR-Merged-brightgreen)
 
 ---

@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**  
 - 🤝 I’m looking for help with **Backend development**  
 - 👨‍💻 All of my projects are available at [https://github.com/Happyhappycat](https://github.com/Happyhappycat)  
-- 💬 Ask me about **Python, Machine Learning, Natural Language processing, Javascript, Node.js, Express.js, MongoDB, MySQL**  
+- 💬 Ask me about **Python, Machine Learning, Natural Language processing, Javascript, Node.js, Express.js, MongoDB, MySQL, Google Cloud, QwikLabs, Backend Development, API Development, RESTful APIs**  
 - 📫 How to reach me **harshhay69pr@gmail.com**  
 - ⚡ Fun fact **Obsessed with statistics**  
 
